@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Hannah</h1>
-- 📫 How to reach me **hannah.hwang@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,7 +15,7 @@
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-FF9900?style=flat-square&logo=LangChain&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white" />

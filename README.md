@@ -21,4 +21,3 @@
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhn2&show_icons=true&locale=en&layout=compact" alt="hhn2" /></p>

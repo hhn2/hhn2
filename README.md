@@ -13,11 +13,14 @@
 <a href="https://isocpp.org/" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </a>
-<a href="https://html.spec.whatwg.org/" target="_blank">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<a href="https://gcc.gnu.org/" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </a>
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</a>
+<a href="https://html.spec.whatwg.org/" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />

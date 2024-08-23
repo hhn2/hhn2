@@ -2,11 +2,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+     <a href="mailto:hannah.hwang@uwaterloo.ca">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"  alt="Email" height="35" width="35" style="vertical-align: middle; margin-top: 5px; />
+    </a>
     <a href="https://linkedin.com/in/hhannahhwang" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hhannahhwang" height="30" width="40" />
-    </a>
-    <a href="mailto:hannah.hwang@uwaterloo.ca">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" width="35" />
     </a>
 </p>
 

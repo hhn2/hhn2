@@ -6,7 +6,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hhannahhwang" height="30" width="40" />
     </a>
     <a href="mailto:hannah.hwang@uwaterloo.ca">
-        <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email" height="35" width="35" />
     </a>
 </p>
 

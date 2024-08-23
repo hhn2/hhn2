@@ -1,11 +1,12 @@
 <h2 align="center">Hi, I'm Hannah!</h2>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="display: inline-block; vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="left" style="display: flex; align-items: center;">
+    <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 40px;" />
     </a>
-    <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" style="vertical-align: middle;" />
+    <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="height: 40px;" />
     </a>
 </p>
 

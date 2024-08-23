@@ -1,14 +1,16 @@
 <h2 align="center">Hi, I'm Hannah!</h2>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 60px;" />
+        <i class="fab fa-linkedin" style="font-size: 40px; color: #0e76a8;"></i>
     </a>
     <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="height: 60px;" />
+        <i class="fas fa-envelope" style="font-size: 40px; color: #D44638;"></i>
     </a>
 </p>
+
 
 
 <h3 align="left">Skills:</h3>

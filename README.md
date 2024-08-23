@@ -1,18 +1,14 @@
 <h2 align="center">Hi, I'm Hannah!</h2>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="margin-right: 20px;">
-        <i class="fab fa-linkedin" style="font-size: 40px; color: #0e76a8;"></i>
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank">
-        <i class="fas fa-envelope" style="font-size: 40px; color: #D44638;"></i>
+        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
     </a>
 </p>
-
-
 
 <h3 align="left">Skills:</h3>
 <p>

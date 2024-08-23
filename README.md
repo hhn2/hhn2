@@ -3,10 +3,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="margin-right: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 40px;" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 60px;" />
     </a>
     <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" style="height: 40px;" />
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="height: 60px;" />
     </a>
 </p>
 

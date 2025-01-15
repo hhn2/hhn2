@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Hannah!</h2>
 
 <a href="https://hannahhwang.vercel.app" target="_blank" style="text-decoration: none;">
-    <h3 align="center">Visit My Portfolio</h3>
+    <h3 align="center">Portfolio</h3>
 </a>
     
 <h3 align="left">Connect with me:</h3>

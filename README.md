@@ -6,9 +6,6 @@
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/hhannahhwang" target="_blank" style="margin-right: 20px;">
-        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-    </a>
     <a href="mailto:hannah.hwang@uwaterloo.ca" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
     </a>
